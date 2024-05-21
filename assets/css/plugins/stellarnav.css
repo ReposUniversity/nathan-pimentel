@@ -55,7 +55,7 @@
     content: "";
     height: 1px;
     width: 20%;
-    background: #08d665;
+    background: #64AB2E;
     left: 0;
     bottom: 0;
     visibility: hidden;
@@ -138,7 +138,7 @@
     background: #222;
 }
 .stellarnav.light.mobile.active li a:hover{
-    color: #08D665;
+    color: #64AB2E;
 }
 
 /* dark theme */
@@ -755,7 +755,7 @@ body.stellarnav-noscroll-x {
 }
 
 .stellarnav.light li li a:hover{
-    color: #08D665;
+    color: #64AB2E;
     padding-left: 30px
 }
 /* mega dd */

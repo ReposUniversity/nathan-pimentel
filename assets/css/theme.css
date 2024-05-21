@@ -72,7 +72,7 @@ FOOTER AREA CSS
     margin     : 0 2px;
 }
 .header-banner-area .owl-nav > div:hover{
-	color: #08D665;
+	color: #64AB2E;
 }
 .header-banner-area .owl-nav > div i{
 	font-size: 12px;
@@ -118,7 +118,7 @@ FOOTER AREA CSS
 .banner-icon {
     position  : absolute;
     left      : 0;
-    background: #08D665;
+    background: #64AB2E;
     padding   : 10px 12px;
     top       : 0;
     color     : #fff;
@@ -139,7 +139,7 @@ FOOTER AREA CSS
     padding  : 10px;
 }
 .banner-social li a:hover{
-	color: #08D665;
+	color: #64AB2E;
 }
 
 
@@ -152,7 +152,7 @@ a.contact-btn {
     color      : #fff;
     font-size  : 13px;
     font-weight: 400;
-    background : #08D665;
+    background : #64AB2E;
     padding    : 10px 25px 10px 40px;
     transition : all .3s;
     position   : relative;
@@ -219,7 +219,7 @@ a.contact-btn:hover{
 }
 
 .search-btn i {
-    color: #08D665;
+    color: #64AB2E;
 }
 
 .search-box input {
@@ -332,8 +332,8 @@ a.contact-btn:hover{
 
 .side-social li a:hover, 
 .side-close:hover{
-    background  :#08D665;
-    border-color: #08D665;
+    background  :#64AB2E;
+    border-color: #64AB2E;
     transition  : all .3s;
 }
 
@@ -377,13 +377,13 @@ a.contact-btn:hover{
 }
 
 .wlc-title h1 span {
-    color: #08d665;
+    color: #64AB2E;
 }
 .wlc-title p {
     font-weight : 400;
     font-size   : 18px;
     padding-left: 20px;
-    border-left : 3px solid #08d665;
+    border-left : 3px solid #64AB2E;
     line-height : 28px;
     margin:40px 0;
 }
@@ -394,6 +394,10 @@ a.contact-btn:hover{
     bottom  : 0;
     height  : 90%;
     z-index : -1;
+}
+
+.single-profile-item {
+    display: none;
 }
 
 .author-1 img {
@@ -418,7 +422,7 @@ a.contact-btn:hover{
     position     : relative;
     z-index      : 2;
     margin       : 7px 0;
-    border       : 1px solid #08d665;
+    border       : 1px solid #64AB2E;
     transition   : all .3s;
     overflow     : hidden;
 }
@@ -432,15 +436,15 @@ a.contact-btn:hover{
     text-align       : center;
     top              : 50%;
     margin-top       : -13px;
-    color            : #08d665;
+    color            : #64AB2E;
     font-size        : 12px;
     transition       : all .3s;
 
 }
 .welcome-carousel .owl-dots > div:hover, 
 .welcome-carousel .owl-dots > div.active{
-    background  : #08d665;
-    border-color: #08d665;
+    background  : #64AB2E;
+    border-color: #64AB2E;
    
 }
 .welcome-carousel .owl-dots > div:hover:after, 
@@ -498,7 +502,7 @@ a.about-video {
     line-height  : 80px;
     background   : #fff;
     border-radius: 50%;
-    color        : #08d665;
+    color        : #64AB2E;
     font-size    : 40px;
 }
 .about-shape {
@@ -658,7 +662,7 @@ a.about-video {
     font-size     : 20px;
     text-transform: uppercase;
     font-weight   : 600;
-    color         : #08d665;
+    color         : #64AB2E;
     margin        : 12px 0;
 }
 
@@ -759,7 +763,7 @@ a.about-video {
     border-radius: 0;
 }
 .primery-skill .skill-box:hover h5{
-    color: #08d665;
+    color: #64AB2E;
     -webkit-transition: all .3s;
     -o-transition: all .3s;
     transition: all .3s;
@@ -1273,12 +1277,12 @@ span.circle.circle-4 {
 .fact i {
     font-size: 48px;
     margin-bottom: 10px;
-    color: #08d665;
+    color: #64AB2E;
 }
 
 
 .fact h2 {
-    color: #08d665;
+    color: #64AB2E;
 }
 
 
@@ -1498,7 +1502,7 @@ a.readmore-btn i {
 }
 
 a.readmore-btn {
-    color: #08d665;
+    color: #64AB2E;
     text-transform: uppercase;
     font-size: 12px;
     margin:0;
@@ -1737,7 +1741,7 @@ span.single-social-icon i {
 }
 
 .footer-menu li a:hover {
-    color: #08d665;
+    color: #64AB2E;
 }
 
 .footer-menu li {
@@ -1745,7 +1749,7 @@ span.single-social-icon i {
 }
 
 .copyright span {
-    color: #08d665;
+    color: #64AB2E;
 }
 
 .copyright {
@@ -1802,7 +1806,7 @@ span.single-social-icon i {
 
 .primery-heading small {
     font-weight: 500;
-    color      : #08d665 !important;
+    color      : #64AB2E !important;
     font-size  : 16px;
     text-transform: uppercase;
 }
@@ -1819,7 +1823,7 @@ span.single-social-icon i {
 }
 
 .primery-heading h2 span {
-    color: #08d665;
+    color: #64AB2E;
 }
 
 .primery-heading {
@@ -1847,7 +1851,7 @@ span.single-social-icon i {
 
 .heading small {
     font-weight: 500;
-    color      : #08d665 !important;
+    color      : #64AB2E !important;
     font-size  : 16px;
     text-transform: uppercase;
 }
@@ -1855,7 +1859,7 @@ span.single-social-icon i {
 
 .primery-info-content{
     padding-left: 30px;
-    border-left : 3px solid #08d665;
+    border-left : 3px solid #64AB2E;
     color       : #fff;
 }
 
@@ -1863,7 +1867,7 @@ span.single-social-icon i {
     font-size     : 18px;
     text-transform: capitalize;
     font-weight   : 400;
-    color: #08d665;
+    color: #64AB2E;
     margin-bottom: 0;
 }
 
@@ -1873,7 +1877,7 @@ span.single-social-icon i {
 
 .info-content{
     padding-left: 30px;
-    border-left : 3px solid #08d665;
+    border-left : 3px solid #64AB2E;
     color       : #fff;
 }
 
@@ -1890,7 +1894,7 @@ a.up-btn {
     position: fixed;
     bottom: 0;
     right: 10%;
-    background: #08d665;
+    background: #64AB2E;
     color: #fff;
     height: 60px;
     width: 60px;
@@ -1905,9 +1909,9 @@ a.up-btn {
 }
 
 a.up-btn:hover {
-    color: #08d665;
+    color: #64AB2E;
     background: #fff;
-    border-color: #08d665;
+    border-color: #64AB2E;
     z-index: 999999999;
 }
 
